@@ -17,3 +17,14 @@ This project uses a webcam feed to detect multiple real-world objects in real ti
 ## 🛠️ Installation
 ```bash
 pip install -r requirements.txt
+
+
+---
+
+### 📦 requirements.txt
+
+```txt
+opencv-python
+torch
+torchvision
+filterpy
